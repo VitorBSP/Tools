@@ -9,14 +9,6 @@
 ### 🔭 I’m currently working on R, Flexdashboard and Shiny App's
 ### 🌱 I’m currently learning Python, SQL and some topics of computer science.
 ### 💻 I want (and need) to study JavaScript, CSS, Json, Ajax and Power BI.
-
-##
-
-<div align="center">
-  <a href="https://github.com/VitorBSP">
-  <img height="180em" width='600em' src="https://github-readme-stats.vercel.app/api?username=VitorBSP&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" width='600em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorBSP&layout=compact&langs_count=7&theme=default"/>
-</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
