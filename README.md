@@ -2,7 +2,7 @@
 
 ## About me: 🤨
 
-### My name is Vítor Pereira, I'm internet computer technician and undergraduate student in statistics.
+### My name is Vítor Pereira, I'm an internet computer technician and undergraduate student in statistics.
 
 ## What do I study? 📕
 
