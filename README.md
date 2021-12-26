@@ -35,8 +35,6 @@
 
   <h3>
   <p align="center"><img align="center" src="https://github.com/VitorBSP/ProjetosGraduacao/blob/main/monophy.gif" height="210px" width="350" /></p>
-    
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=VitorBSP&label=Profile%20views&color=0e75b6&style=flat" alt="VitorBSP" /> </p>
 </h3>
   
   
