@@ -4,21 +4,27 @@
 
 ### My name is Vítor Pereira, I'm an internet computer technician and undergraduate student in statistics.
 
-## What do I study? 📕
-
-### 🔭 I’m currently working on R, Flexdashboard and Shiny App's
-### 🌱 I’m currently learning Python, SQL and some topics of computer science.
-### 💻 I want (and need) to study JavaScript, CSS, Json, Ajax and Power BI.
-
-## "Programming Languages" I use
+## My tools ✈
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Vitor-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vitor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Vitor-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Vitor-R" height="30" width="60" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+  <img align="center" alt="Vitor-HTML" height="30" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Vitor-Python" height="30" width="100" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Vitor-SQL" height="30" width="100" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="Vitor-RS" height="30" width="100" src="https://img.shields.io/badge/RStudio-blue?style=for-the-badge&logo=rstudio&logoColor=whit">
 </div>
-  
+
+## Tools I'm Learning
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Vitor-MariaDB" height="30" width="100" src="https://img.shields.io/badge/MariaDB-01529E?style=for-the-badge&logo=mariadb&logoColor=white">
+  <img align="center" alt="Vitor-PostGres" height="30" width="100" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img align="center" alt="Vitor-Docker" height="30" width="100" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img align="center" alt="Vitor-JS" height="30" width="100" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img align="center" alt="Vitor-PHP" height="30" width="100" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img align="center" alt="Vitor-Julia" height="30" width="100" src="https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white">
+  <img align="center" alt="Vitor-VS" height="30" width="100" src="https://img.shields.io/badge/vscode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+
+</div> 
   
 ##
  
